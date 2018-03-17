@@ -1,0 +1,11 @@
+# ignore outputs
+output/
+
+# ignore data, gets loaded by user
+data/
+
+# ignore log files
+logs/
+
+# ignore __pycache__
+__pycache__/
