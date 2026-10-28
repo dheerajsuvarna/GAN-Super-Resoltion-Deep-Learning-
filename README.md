@@ -176,7 +176,10 @@ Based on SRGAN ([Ledig et al., 2017](https://arxiv.org/abs/1609.04802)), with tr
 
 ## 👥 Team
 
-_Add the names of your team members._
+1. Dheeraj Kumar
+2. Prashanth Pinto
+3. Juanita Mendonca
+4. Ashwin Prabhu
 
 ## 📌 Status
 
